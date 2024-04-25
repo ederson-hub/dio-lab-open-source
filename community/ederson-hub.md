@@ -1,5 +1,5 @@
 
-#  Resolução do Desafio Projeto Open Source no GitHub
+#  Olá pessoal, Sou Ederson
 
 Estudante Python Data Analytics na DIO.
 
